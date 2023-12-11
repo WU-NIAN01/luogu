@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "整数去重", "整数去重\整数去重.vcxproj", "{588BEF2F-5F51-4A90-AA43-630FE90A5E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Debug|x64.ActiveCfg = Debug|x64
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Debug|x64.Build.0 = Debug|x64
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Debug|x86.ActiveCfg = Debug|Win32
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Debug|x86.Build.0 = Debug|Win32
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Release|x64.ActiveCfg = Release|x64
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Release|x64.Build.0 = Release|x64
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Release|x86.ActiveCfg = Release|Win32
+		{588BEF2F-5F51-4A90-AA43-630FE90A5E31}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B1741B-9838-4678-9A08-5A43D71BAF05}
+	EndGlobalSection
+EndGlobal
