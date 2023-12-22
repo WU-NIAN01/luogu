@@ -1,0 +1,5 @@
+﻿  B2141.c
+D:\学习\luogu\确定进制\确定进制\B2141.c(27,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\学习\luogu\确定进制\确定进制\B2141.c(39,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\学习\luogu\确定进制\确定进制\B2141.c(51,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  确定进制.vcxproj -> D:\学习\luogu\确定进制\x64\Debug\确定进制.exe
